@@ -1,12 +1,12 @@
 
-
-function myAnimal() {
 var animal = 'dog'
+function myAnimal() {
+
   return animal
 }
 
 function yourAnimal() {
- animal = 'cat'
+ var animal = 'cat'
   return animal
 }
 
